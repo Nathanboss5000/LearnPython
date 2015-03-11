@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex10.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex10.py">
+      <file leaf-file-name="ex11.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46034816" vertical-offset="0" max-vertical-offset="517">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.2630561" vertical-offset="0" max-vertical-offset="517">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,12 +54,13 @@
         <option value="$PROJECT_DIR$/ex8.py" />
         <option value="$PROJECT_DIR$/ex9.py" />
         <option value="$PROJECT_DIR$/ex10.py" />
+        <option value="$PROJECT_DIR$/ex11.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
-    <option name="y" value="41" />
+    <option name="x" value="29" />
+    <option name="y" value="62" />
     <option name="width" value="1260" />
     <option name="height" value="929" />
   </component>
@@ -86,9 +87,22 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearnPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.8 (C:\Python27\python.exe) (1) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="LearnPython" />
@@ -97,10 +111,11 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="project.propVCSSupport.Issue.Navigation" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -116,26 +131,7 @@
       <recent name="C:\Users\Nathan\Desktop\LearnPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex10">
-    <configuration default="false" name="ex6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ex11">
     <configuration default="false" name="ex7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,6 +202,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -335,19 +350,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ex6" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ex7" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex8" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex9" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ex10" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ex7" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex8" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex9" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex10" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex11" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex10" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex9" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ex8" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ex7" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex6" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ex11" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex10" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex9" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex8" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex7" />
       </list>
     </recent_temporary>
   </component>
@@ -365,8 +380,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="41" width="1260" height="929" extended-state="0" />
-    <editor active="true" />
+    <frame x="29" y="62" width="1260" height="929" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -410,6 +425,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ex10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ex3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="391">
@@ -421,7 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -471,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -479,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63909775" vertical-offset="0" max-vertical-offset="532">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63909775" vertical-offset="0" max-vertical-offset="532">
           <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -495,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -503,14 +521,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46034816" vertical-offset="0" max-vertical-offset="517">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2630561" vertical-offset="0" max-vertical-offset="517">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
