@@ -24,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ex12.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex12.py">
+      <file leaf-file-name="ex14.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex13.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex13.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23129252" vertical-offset="0" max-vertical-offset="588">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5782313" vertical-offset="0" max-vertical-offset="588">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -67,6 +57,7 @@
         <option value="$PROJECT_DIR$/ex11.py" />
         <option value="$PROJECT_DIR$/ex12.py" />
         <option value="$PROJECT_DIR$/ex13.py" />
+        <option value="$PROJECT_DIR$/ex14.py" />
       </list>
     </option>
   </component>
@@ -143,26 +134,7 @@
       <recent name="C:\Users\Nathan\Desktop\LearnPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex13">
-    <configuration default="false" name="ex9" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex9.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ex14">
     <configuration default="false" name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,6 +205,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -362,19 +353,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ex9" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ex10" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex11" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex12" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ex13" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ex10" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex11" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex12" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex13" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex14" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex13" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex12" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ex11" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ex10" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex9" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ex14" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex13" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex12" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex11" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex10" />
       </list>
     </recent_temporary>
   </component>
@@ -562,8 +553,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23129252" vertical-offset="0" max-vertical-offset="588">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5782313" vertical-offset="0" max-vertical-offset="588">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding />
         </state>
       </provider>
